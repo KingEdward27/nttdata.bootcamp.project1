@@ -1,4 +1,4 @@
-package formacionbdi.microservicios.app.configserver;
+package com.nttdata.bootcamp.configserver;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

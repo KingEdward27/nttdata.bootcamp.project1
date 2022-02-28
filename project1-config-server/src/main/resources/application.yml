@@ -6,7 +6,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/KingEdward27/demo-microservicios
+          uri: https://github.com/KingEdward27/nttdata.bootcamp.project1
           searchPaths: config-data
           username: ${GIT_USER}
           password: ${GIT_PASSWORD}
